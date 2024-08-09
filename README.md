@@ -1,12 +1,9 @@
 # SonghuanranEnglishNote
 
 ## 简介
-本仓库提供了一系列讲义，这些讲义来自“精华学校”的公开资源。该资源的使用旨在辅助学习，建议配合以下视频进行使用：[https://www.bilibili.com/video/BV1et411n74S](https://www.bilibili.com/video/BV1et411n74S)。
-
-## 使用说明
-- 本仓库内容仅供个人学习使用，严禁用于任何其他商业活动，除非获得版权方的明确许可。
-- 所有讲义内容均来自“精华学校”的公开资源，请尊重原作者的知识产权。
-- 在使用本仓库内容时，请使用指定视频进行学习，以达到最佳效果。
+本仓库提供了一系列讲义，这些讲义来自“精华学校”的公开资源。该资源的使用旨在辅助学习，建议配合以下视频进行使用：
+[https://www.bilibili.com/video/BV1et411n74S](https://www.bilibili.com/video/BV1et411n74S)
+[https://www.bilibili.com/video/BV1vt411n7Hb](https://www.bilibili.com/video/BV1vt411n7Hb)
 
 ## 免责声明
 1. 本仓库中的讲义内容来自“精华学校”（北京天地精华教育科技有限公司）的公开资源，版权归原版权所有者所有。
